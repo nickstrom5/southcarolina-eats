@@ -1,0 +1,316 @@
+{
+ "generated": "2026-11-03",
+ "domain": "https://nickstrom5.github.io/southcarolina-eats",
+ "restaurants": 15176,
+ "places_incl_hidden": 15696,
+ "towns": 318,
+ "counties": 46,
+ "on_an_official_list": 12621,
+ "scda_open_food_permits": 20014,
+ "scda_open_since": "2025-04-19",
+ "hand_checked_on_a_guide": 46,
+ "guide_bbq": 17,
+ "guide_seafood": 18,
+ "guide_gullah": 4,
+ "guide_meat3": 6,
+ "guide_pages": [
+  "bbq",
+  "seafood",
+  "gullah",
+  "meat3"
+ ],
+ "oldest": 2,
+ "honors": 39,
+ "james_beard": 18,
+ "michelin": 27,
+ "michelin_stars": 4,
+ "bib_gourmand": 4,
+ "americas_classics": 3,
+ "inspection_grades": 12563,
+ "grade_counts": {
+  "A": 12450,
+  "B": 83,
+  "C": 30
+ },
+ "inspections_through": {
+  "scda": "2026-10-19"
+ },
+ "city_pages": {
+  "Charleston": {
+   "restaurants": 856,
+   "listed": 29,
+   "bbq": 4,
+   "seafood": 6,
+   "gullah": 1,
+   "meat3": 0,
+   "hon": 21,
+   "oldest": 0,
+   "inspection_grades": 680,
+   "grade_counts": {
+    "A": 677,
+    "B": 2,
+    "C": 1
+   }
+  },
+  "Greenville": {
+   "restaurants": 1092,
+   "listed": 4,
+   "bbq": 0,
+   "seafood": 0,
+   "gullah": 0,
+   "meat3": 0,
+   "hon": 4,
+   "oldest": 0,
+   "inspection_grades": 942,
+   "grade_counts": {
+    "A": 935,
+    "B": 7
+   }
+  },
+  "Myrtle Beach": {
+   "restaurants": 1004,
+   "listed": 6,
+   "bbq": 0,
+   "seafood": 3,
+   "gullah": 0,
+   "meat3": 1,
+   "hon": 2,
+   "oldest": 0,
+   "inspection_grades": 832,
+   "grade_counts": {
+    "A": 824,
+    "B": 6,
+    "C": 2
+   }
+  },
+  "Florence": {
+   "restaurants": 350,
+   "listed": 4,
+   "bbq": 2,
+   "seafood": 1,
+   "gullah": 0,
+   "meat3": 1,
+   "hon": 0,
+   "oldest": 0,
+   "inspection_grades": 295,
+   "grade_counts": {
+    "A": 294,
+    "B": 1
+   }
+  }
+ },
+ "cities_without_a_page": {
+  "North Charleston": 2,
+  "Mount Pleasant": 3,
+  "Columbia": 3,
+  "West Columbia": 3,
+  "Spartanburg": 2,
+  "Murrells Inlet": 3,
+  "Hilton Head Island": 1,
+  "Bluffton": 2,
+  "Beaufort": 0,
+  "Rock Hill": 1,
+  "Summerville": 0,
+  "Aiken": 0,
+  "Orangeburg": 1
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 1311335,
+   "gzip": 276227
+  },
+  "data/detail-abbeville-county.json": {
+   "raw": 15064,
+   "gzip": 5212
+  },
+  "data/detail-aiken-county.json": {
+   "raw": 163978,
+   "gzip": 55306
+  },
+  "data/detail-allendale-county.json": {
+   "raw": 5367,
+   "gzip": 2125
+  },
+  "data/detail-anderson-county.json": {
+   "raw": 210596,
+   "gzip": 70565
+  },
+  "data/detail-bamberg-county.json": {
+   "raw": 11515,
+   "gzip": 4324
+  },
+  "data/detail-barnwell-county.json": {
+   "raw": 20256,
+   "gzip": 7316
+  },
+  "data/detail-beaufort-county.json": {
+   "raw": 365242,
+   "gzip": 132012
+  },
+  "data/detail-berkeley-county.json": {
+   "raw": 187317,
+   "gzip": 63789
+  },
+  "data/detail-calhoun-county.json": {
+   "raw": 9950,
+   "gzip": 3867
+  },
+  "data/detail-charleston-county.json": {
+   "raw": 721588,
+   "gzip": 251345
+  },
+  "data/detail-cherokee-county.json": {
+   "raw": 62423,
+   "gzip": 23077
+  },
+  "data/detail-chester-county.json": {
+   "raw": 32580,
+   "gzip": 11632
+  },
+  "data/detail-chesterfield-county.json": {
+   "raw": 43045,
+   "gzip": 15796
+  },
+  "data/detail-clarendon-county.json": {
+   "raw": 33027,
+   "gzip": 12148
+  },
+  "data/detail-colleton-county.json": {
+   "raw": 41521,
+   "gzip": 15306
+  },
+  "data/detail-darlington-county.json": {
+   "raw": 60014,
+   "gzip": 21808
+  },
+  "data/detail-dillon-county.json": {
+   "raw": 32915,
+   "gzip": 12315
+  },
+  "data/detail-dorchester-county.json": {
+   "raw": 116813,
+   "gzip": 38756
+  },
+  "data/detail-edgefield-county.json": {
+   "raw": 10447,
+   "gzip": 3893
+  },
+  "data/detail-fairfield-county.json": {
+   "raw": 12829,
+   "gzip": 4633
+  },
+  "data/detail-florence-county.json": {
+   "raw": 220801,
+   "gzip": 80270
+  },
+  "data/detail-georgetown-county.json": {
+   "raw": 92828,
+   "gzip": 32226
+  },
+  "data/detail-greenville-county.json": {
+   "raw": 779687,
+   "gzip": 269466
+  },
+  "data/detail-greenwood-county.json": {
+   "raw": 74294,
+   "gzip": 26305
+  },
+  "data/detail-hampton-county.json": {
+   "raw": 16161,
+   "gzip": 6023
+  },
+  "data/detail-horry-county.json": {
+   "raw": 886327,
+   "gzip": 316567
+  },
+  "data/detail-jasper-county.json": {
+   "raw": 47788,
+   "gzip": 17190
+  },
+  "data/detail-kershaw-county.json": {
+   "raw": 45785,
+   "gzip": 15872
+  },
+  "data/detail-lancaster-county.json": {
+   "raw": 104973,
+   "gzip": 37822
+  },
+  "data/detail-laurens-county.json": {
+   "raw": 38222,
+   "gzip": 13397
+  },
+  "data/detail-lee-county.json": {
+   "raw": 14025,
+   "gzip": 5251
+  },
+  "data/detail-lexington-county.json": {
+   "raw": 335147,
+   "gzip": 115783
+  },
+  "data/detail-marion-county.json": {
+   "raw": 25144,
+   "gzip": 9253
+  },
+  "data/detail-marlboro-county.json": {
+   "raw": 16576,
+   "gzip": 6390
+  },
+  "data/detail-mccormick-county.json": {
+   "raw": 6773,
+   "gzip": 2549
+  },
+  "data/detail-newberry-county.json": {
+   "raw": 37925,
+   "gzip": 13654
+  },
+  "data/detail-oconee-county.json": {
+   "raw": 74396,
+   "gzip": 26289
+  },
+  "data/detail-orangeburg-county.json": {
+   "raw": 98060,
+   "gzip": 35383
+  },
+  "data/detail-pickens-county.json": {
+   "raw": 143605,
+   "gzip": 48910
+  },
+  "data/detail-richland-county.json": {
+   "raw": 462238,
+   "gzip": 158615
+  },
+  "data/detail-saluda-county.json": {
+   "raw": 13118,
+   "gzip": 4762
+  },
+  "data/detail-spartanburg-county.json": {
+   "raw": 343445,
+   "gzip": 116167
+  },
+  "data/detail-sumter-county.json": {
+   "raw": 95338,
+   "gzip": 34065
+  },
+  "data/detail-union-county.json": {
+   "raw": 23545,
+   "gzip": 8705
+  },
+  "data/detail-williamsburg-county.json": {
+   "raw": 20169,
+   "gzip": 7307
+  },
+  "data/detail-york-county.json": {
+   "raw": 346302,
+   "gzip": 123527
+  },
+  "data/ids.json": {
+   "raw": 197318,
+   "gzip": 114469
+  },
+  "data/sc_shapes.json": {
+   "raw": 74874,
+   "gzip": 17137
+  }
+ }
+}

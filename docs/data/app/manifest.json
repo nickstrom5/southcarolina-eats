@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "version": "2026-11-03.1",
+ "records_through": "2026-11-03",
+ "published": "2026-11-04T03:21:48Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-aiken-savannah-river": {
+   "path": "detail-aiken-savannah-river-08c87d5e8fc1.json",
+   "sha256": "08c87d5e8fc1dc4f70be2347ac5e1b8897f09c850f16871b18258cf4390ce217",
+   "bytes": 246747,
+   "rows": 613
+  },
+  "detail-beaufort-hilton-head": {
+   "path": "detail-beaufort-hilton-head-c1a0446a2213.json",
+   "sha256": "c1a0446a221347d27be617f7644b14d32ae5f9574a29f0a272fb0470017482d6",
+   "bytes": 495331,
+   "rows": 1014
+  },
+  "detail-charleston-lowcountry": {
+   "path": "detail-charleston-lowcountry-adcbda2b88a8.json",
+   "sha256": "adcbda2b88a82498bf59578768e3efe9d94104139c563d412a05b022ff9279fa",
+   "bytes": 1069858,
+   "rows": 2646
+  },
+  "detail-grand-strand": {
+   "path": "detail-grand-strand-a4887ba0be56.json",
+   "sha256": "a4887ba0be56768c174832b3b3c429277f98fa88f27bbf5e7bfe2b91ab735eb9",
+   "bytes": 1015008,
+   "rows": 2106
+  },
+  "detail-midlands": {
+   "path": "detail-midlands-59eab3a97428.json",
+   "sha256": "59eab3a97428a7eb03b13eb772c35d459d64a80af97d0acf97db4ce9c818f72f",
+   "bytes": 1647718,
+   "rows": 3786
+  },
+  "detail-pee-dee": {
+   "path": "detail-pee-dee-00eae1b9c6bf.json",
+   "sha256": "00eae1b9c6bf9b744c79f214f2bd508c81347462c3139f948ad7d14178c066fd",
+   "bytes": 486003,
+   "rows": 1031
+  },
+  "detail-upstate": {
+   "path": "detail-upstate-25ae01dcb2ac.json",
+   "sha256": "25ae01dcb2ac3633fcada2f1d6884b81116c685e46cf612045445840d9680712",
+   "bytes": 1829316,
+   "rows": 4334
+  },
+  "places": {
+   "path": "places-7a937f1ad45b.json",
+   "sha256": "7a937f1ad45ba0cc3e1ab0a2f465e1020cc7606602598cc75aa58db43e5743a4",
+   "bytes": 2838176,
+   "rows": 15696
+  }
+ },
+ "counts": {
+  "places": 15696,
+  "files": 8,
+  "bytes": 9628157,
+  "restaurants": 15176
+ },
+ "previous": {
+  "version": "2026-10-28.1",
+  "files": {
+   "detail-aiken-savannah-river": "detail-aiken-savannah-river-08c87d5e8fc1.json",
+   "detail-beaufort-hilton-head": "detail-beaufort-hilton-head-c1a0446a2213.json",
+   "detail-charleston-lowcountry": "detail-charleston-lowcountry-5c87dcad6238.json",
+   "detail-grand-strand": "detail-grand-strand-24287beb3f8e.json",
+   "detail-midlands": "detail-midlands-c1426fee57ad.json",
+   "detail-pee-dee": "detail-pee-dee-d09d3eccf0ad.json",
+   "detail-upstate": "detail-upstate-86ef1b404a2b.json",
+   "places": "places-f7c11d9f7f80.json"
+  }
+ }
+}
