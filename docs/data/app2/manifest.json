@@ -1,0 +1,58 @@
+{
+ "schema": 2,
+ "version": "2026-11-03.1",
+ "records_through": "2026-11-03",
+ "min_app_build": 1,
+ "files": {
+  "detail-aiken-savannah-river": {
+   "path": "detail-aiken-savannah-river-1bfee2a70f94.json",
+   "sha256": "1bfee2a70f9410be08d0e90ecaa893564a3b22f0bd189a48c3d46d195e3c6d17",
+   "bytes": 155905
+  },
+  "detail-beaufort-hilton-head": {
+   "path": "detail-beaufort-hilton-head-5fcb45942d41.json",
+   "sha256": "5fcb45942d4117b9f566b55c3f28e351acfb71d5629e2560b8dc70bca525252e",
+   "bytes": 289090
+  },
+  "detail-charleston-lowcountry": {
+   "path": "detail-charleston-lowcountry-78eda95e166b.json",
+   "sha256": "78eda95e166b68b7b3df17b2034739b9665119da0a287a77f42992f7ea0147dd",
+   "bytes": 665808
+  },
+  "detail-grand-strand": {
+   "path": "detail-grand-strand-8114eeb47d33.json",
+   "sha256": "8114eeb47d331b9823b406d37c68e6d2c587a695dc8ee2e5255dcb9f7eaab1d8",
+   "bytes": 598399
+  },
+  "detail-midlands": {
+   "path": "detail-midlands-4d1f73c1c933.json",
+   "sha256": "4d1f73c1c933671d55fec026fa51b61f08a3d091221720fc1119c50129549f9e",
+   "bytes": 1010872
+  },
+  "detail-pee-dee": {
+   "path": "detail-pee-dee-15e545e15202.json",
+   "sha256": "15e545e1520238cf2e96b672be346b7321e7cbfb376a33f2baabecb433b78588",
+   "bytes": 284417
+  },
+  "detail-upstate": {
+   "path": "detail-upstate-0a3e601684a2.json",
+   "sha256": "0a3e601684a276118649a458f5aa0407b6a0611c90936e41e622bdfc6053c438",
+   "bytes": 1135482
+  },
+  "places": {
+   "path": "places-1529cf3e1e42.json",
+   "sha256": "1529cf3e1e42876199ed0cfc6c902f000e8f46b610136ca8461006872c45e4c1",
+   "bytes": 2911074
+  },
+  "state": {
+   "path": "state-644ecf4c3af1.json",
+   "sha256": "644ecf4c3af10a25f4bc2aa304ce5a461ca87769784a893232c87ba3f8e72d38",
+   "bytes": 10560
+  }
+ },
+ "counts": {
+  "places": 15696,
+  "restaurants": 15176,
+  "bytes": 7061607
+ }
+}
